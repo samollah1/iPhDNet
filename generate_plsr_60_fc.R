@@ -4,6 +4,10 @@
 # Last updated: 1-12-2017
 #
 # Histone prediction using PLSR
+# When using this code please cite our paper as follows:
+# Mollah SA, Subramaniam S. Histone Signatures Predict Therapeutic Efficacy in Breast Cancer. 
+# IEEE Open J Eng Med Biol. 2020 Jan 17;1:74-82. doi: 10.1109/OJEMB.2020.2967105. 
+# PMID: 32412527; PMCID: PMC7207876.
 #-----------------------------------------------------------------------------
 
 setwd("/Users/smollah")
