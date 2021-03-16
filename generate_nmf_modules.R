@@ -3,6 +3,10 @@
 # Created: 12-10-2016
 # 
 # Generate functional modules using NMF
+# When using this code please cite our paper as follows:
+# Mollah SA, Subramaniam S. Histone Signatures Predict Therapeutic Efficacy in Breast Cancer. 
+# IEEE Open J Eng Med Biol. 2020 Jan 17;1:74-82. doi: 10.1109/OJEMB.2020.2967105. 
+# PMID: 32412527; PMCID: PMC7207876.
 #-----------------------------------------------------------------------------
 
 #set directory
